@@ -1,0 +1,56 @@
+.message-content {
+  color: #EEEEEE; /* Change color to black */
+  min-width: 180px;
+  max-width: 600px;
+  margin: 20px 0px;
+  padding: 10px;
+  border-radius: 8px;
+  position: relative;
+}
+
+.receive-message {
+  background-color: #222e35;
+  border: 2px solid #222e35;
+}
+.receive-message:hover {
+  background-color: #EEEEEE;
+  color: #222e35;
+  border: 2px solid #222e35;
+  transform: scale(1.02);
+  transform-origin: center;
+  transition: all 0.2s ease-in-out;
+}
+.send-message {
+  background-color: #258b50;
+  border: 2px solid #258b50;
+}
+.send-message:hover {
+  background-color: #EEEEEE;
+  color: #258b50;
+  border: 2px solid #258b50;
+  transform: scale(1.02);
+  transform-origin: center;
+  transition: all 0.2s ease-in-out;
+}
+
+
+
+
+.message-info {
+  color: white;
+  font-size: 14px;
+}
+
+.message-info img {
+  margin-right: 10px;
+}
+
+.sender {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.sender img {
+  margin-left: 10px;
+}

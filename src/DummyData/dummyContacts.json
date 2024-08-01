@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "HrishiKesh",
+    "profilePic": "https://assets-v2.lottiefiles.com/a/d4f17b46-1180-11ee-a477-a3084c0df3ee/og-image-lT2NQU7cdCmyDLZnCy-b3.png"
+  },
+  {
+    "id": "2",
+    "name": "Utkarsh",
+    "profilePic": "data:image/png;base64,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"
+  },
+  {
+    "id": "3",
+    "name": "Nikhil",
+    "profilePic": "https://assets-v2.lottiefiles.com/cdn-cgi/image/width=1200,quality=80,format=auto/a/824205c4-1184-11ee-8cfb-0f2572f4dbb3/og-image-Tkdv5wjYWT8-neQaUOgMB.png"
+  },
+  {
+    "id": "4",
+    "name": "Charitra",
+    "profilePic": "https://assets3.lottiefiles.com/avatars/300_5e9e831238da4.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Abhishek",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5m93-7ZKhq4S57x4a3GeenvBkjsD0SexQ4g&usqp=CAU"
+  },
+  {
+    "id": "6",
+    "name": "Shubham Ashish",
+    "profilePic": "https://pbs.twimg.com/media/EmpreNeVgAANHoD.png"
+  },
+  {
+    "id": "7",
+    "name": "Riyanshu",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYHBfQ97k5Ce8VjDdGwomQK_wRhdJohhIuGA&usqp=CAU"
+  },
+  {
+    "id": "8",
+    "name": "Ashish Gupta",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKUl7IHvj-g_CiiIfDlkMHePA1W4sRJJbYw&usqp=CAU"
+  },
+  {
+    "id": "9",
+    "name": "Ritik Gaurav",
+    "profilePic": "https://static.vecteezy.com/system/resources/previews/002/275/847/original/male-avatar-profile-icon-of-smiling-caucasian-man-vector.jpg"
+  },
+  {
+    "id": "myUser",
+    "name": "Ashutosh Anand",
+    "profilePic": ""
+  }
+]
